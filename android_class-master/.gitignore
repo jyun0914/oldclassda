@@ -1,0 +1,32 @@
+# Customer #
+###################
+need_arange
+
+# Android source #
+###################
+*.apk
+*.ap_
+*.dex
+bin/
+gen/
+*.class
+
+# Eclipse files #
+######################
+.project
+.classpath
+.metadata
+.settings
+.mylyn
+.plugins
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
